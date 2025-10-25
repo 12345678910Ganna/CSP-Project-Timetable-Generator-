@@ -78,7 +78,39 @@ It dynamically assigns lectures, instructors, rooms, and time slots for CSIT dep
     
 ---
 
+## 📁 Folder Structure
+```
+index.html (Single File Application)
+├── HTML Structure (~500 lines)
+│   ├── Header (Branding + Theme Toggle)
+│   ├── Navigation Tabs
+│   ├── Dashboard Tab
+│   ├── Manual Mode Tab
+│   ├── Table View Tab
+│   ├── Calendar View Tab
+│   ├── Statistics Tab
+│   ├── Data Management Tabs
+│   └── Modal Dialogs
+│
+├── CSS Styling (~800 lines)
+│   ├── Design System Variables
+│   ├── Dark/Light Themes
+│   ├── Component Styles
+│   ├── Responsive Layout
+│   └── Animations
+│
+└── JavaScript Logic (~1,500 lines)
+    ├── Global State
+    ├── Course Database
+    ├── CSP Algorithm
+    ├── Event Handlers
+    ├── Rendering Functions
+    └── Export Functions
 
+Total: ~2,800 lines in ONE file!
+```
+
+---
 
 
 
