@@ -5,7 +5,7 @@ It dynamically assigns lectures, instructors, rooms, and time slots for CSIT dep
 
 ---
 
-## 📹 Project- Demo
+## 🎥 Project- Demo
 
 📺 [Watch Project Video](https://drive.google.com/file/d/1rEBuxIbpwh7MOEHtP0Lw4YzkP06Nazee/view)
 
