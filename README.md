@@ -38,7 +38,7 @@ It dynamically assigns lectures, instructors, rooms, and time slots for CSIT dep
     🧑‍🔬 Professors: Teach only lectures (LEC).
 
     👩‍💻 Teaching Assistants (TAs): Handle labs (LAB) and tutorials (TUT).
-      Ensures realistic scheduling that follows department rules.
+        Ensures realistic scheduling that follows department rules.
 
 ### 🏫 5. Smart Room Assignment
 
@@ -75,6 +75,10 @@ It dynamically assigns lectures, instructors, rooms, and time slots for CSIT dep
 ### ⚡ 10. Performance Efficiency
 
     Generates complete, conflict-free timetables in milliseconds (0 ms generation time) — optimized for speed and reliability.
+    
+---
+
+
 
 
 
