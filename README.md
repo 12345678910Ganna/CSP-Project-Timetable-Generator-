@@ -79,6 +79,7 @@ It dynamically assigns lectures, instructors, rooms, and time slots for CSIT dep
 ---
 
 ## 📁 Folder Structure
+
 ```
 index.html (Single File Application)
 ├── HTML Structure (~500 lines)
@@ -109,6 +110,9 @@ index.html (Single File Application)
 
 Total: ~2,800 lines in ONE file!
 ```
+
+***
+
 
 ---
 
