@@ -21,7 +21,7 @@ It dynamically assigns lectures, instructors, rooms, and time slots for CSIT dep
 
 ### 🧠 1. Automatic Timetable Generation
 
-  Uses a Constraint Satisfaction Problem (CSP)–based algorithm to automatically generate conflict-free timetables by assigning lectures, instructors, rooms, and time slots efficiently.
+    Uses a Constraint Satisfaction Problem (CSP)–based algorithm to automatically generate conflict-free timetables by assigning lectures, instructors, rooms, and time slots efficiently.
 
 ### ⚙️ 2. Dual Mode Functionality
 
@@ -31,14 +31,14 @@ It dynamically assigns lectures, instructors, rooms, and time slots for CSIT dep
 
 ### 📚 3. Comprehensive Course Database
 
-  Supports 4 levels and 4 majors (CNC, AID, CSC, BIF) including all core and elective courses, with over 49 instructors, 14 lecture rooms, and 42 labs.
+    Supports 4 levels and 4 majors (CNC, AID, CSC, BIF) including all core and elective courses, with over 49 instructors, 14 lecture rooms, and 42 labs.
 
 ### 👩‍🏫 4. Instructor Constraint System
 
     🧑‍🔬 Professors: Teach only lectures (LEC).
 
     👩‍💻 Teaching Assistants (TAs): Handle labs (LAB) and tutorials (TUT).
-  Ensures realistic scheduling that follows department rules.
+      Ensures realistic scheduling that follows department rules.
 
 ### 🏫 5. Smart Room Assignment
 
@@ -74,7 +74,7 @@ It dynamically assigns lectures, instructors, rooms, and time slots for CSIT dep
 
 ### ⚡ 10. Performance Efficiency
 
-  Generates complete, conflict-free timetables in milliseconds (0 ms generation time) — optimized for speed and reliability.
+    Generates complete, conflict-free timetables in milliseconds (0 ms generation time) — optimized for speed and reliability.
 
 
 
