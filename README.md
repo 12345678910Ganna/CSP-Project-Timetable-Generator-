@@ -25,7 +25,7 @@ It dynamically assigns lectures, instructors, rooms, and time slots for CSIT dep
 
 ### ⚙️ 2. Dual Mode Functionality
 
-  🔹 Auto Mode: Instantly generates full timetables for any level or major.
+  #### 🔹 Auto Mode: Instantly generates full timetables for any level or major.
 
   🔹 Manual Mode: Lets users customize course selections and generate timetables manually.
 
