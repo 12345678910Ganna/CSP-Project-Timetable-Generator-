@@ -25,9 +25,9 @@ It dynamically assigns lectures, instructors, rooms, and time slots for CSIT dep
 
 ### ⚙️ 2. Dual Mode Functionality
 
-  #### 🔹 Auto Mode: Instantly generates full timetables for any level or major.
+    🔹 Auto Mode: Instantly generates full timetables for any level or major.
 
-  🔹 Manual Mode: Lets users customize course selections and generate timetables manually.
+    🔹 Manual Mode: Lets users customize course selections and generate timetables manually.
 
 ### 📚 3. Comprehensive Course Database
 
@@ -35,22 +35,22 @@ It dynamically assigns lectures, instructors, rooms, and time slots for CSIT dep
 
 ### 👩‍🏫 4. Instructor Constraint System
 
-  🧑‍🔬 Professors: Teach only lectures (LEC).
+    🧑‍🔬 Professors: Teach only lectures (LEC).
 
-  👩‍💻 Teaching Assistants (TAs): Handle labs (LAB) and tutorials (TUT).
+    👩‍💻 Teaching Assistants (TAs): Handle labs (LAB) and tutorials (TUT).
   Ensures realistic scheduling that follows department rules.
 
 ### 🏫 5. Smart Room Assignment
 
-  Automatically picks suitable rooms based on session type (lecture/lab) and prevents room/time conflicts across the entire timetable.
+    Automatically picks suitable rooms based on session type (lecture/lab) and prevents room/time conflicts across the entire timetable.
 
 ### ✏️ 6. Editable Timetable
 
-  Every generated session can be edited or deleted using a clean and modern modal interface — updates happen instantly.
+    Every generated session can be edited or deleted using a clean and modern modal interface — updates happen instantly.
 
 ### 📤 7. Export Functionality
 
-  Easily export timetables to CSV format for external use (e.g., Excel or database integration).
+    Easily export timetables to CSV format for external use (e.g., Excel or database integration).
 
 ### 📊 8. Real-Time Statistics
 
